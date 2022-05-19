@@ -1,6 +1,6 @@
 # Breathr
 
-Breathr open-source React app for assisted breathing exercises.
+Breathr is an open-source React app for assisted breathing exercises. Breathe along with a shape, customize the breathing patterns, and download an offline copy of your breathing pattern all in the same app.
 
 ## Technologies used
 
