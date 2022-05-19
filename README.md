@@ -6,7 +6,7 @@ Breathr is an open-source React app for assisted breathing exercises. Breathe al
 
 Javascript, React.js, Konvas, Canvas-Capture
 
-View the live version here: breathr-app.herokuapp.com
+View the live version here: [breathr-app.herokuapp.com](breathr-app.herokuapp.com)
 
 ## Running locally
 
