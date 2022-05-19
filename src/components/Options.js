@@ -10,6 +10,7 @@ export default function Options(props) {
         justifyContent: "space-between",
         alignItems: "center",
         margin: "1rem",
+        textAlign: "center",
       }}
     >
       {props.children}

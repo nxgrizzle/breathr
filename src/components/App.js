@@ -294,7 +294,8 @@ export const App = () => {
       style={{
         width: "100vw",
         height: "100vh",
-        overflow: "hidden",
+        maxWidth: "100%",
+        overflowX: "hidden",
         display: "flex",
         justifyContent: "space-between",
         alignItems: "center",
